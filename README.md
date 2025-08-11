@@ -5,7 +5,7 @@ Filippo here :) I'm a passionate and curious Computer Engineering student from I
 
 ## 🎓 **Education**
  
-- Bachelor: **Computer Engineering @ Sapienza University of Salerno**, March 2025  
+- Bachelor: **Computer Engineering @  University of Salerno**, March 2025  
 
 
 ## **💻 Tech Stack & Skills**
